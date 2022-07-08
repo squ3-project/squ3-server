@@ -1,5 +1,4 @@
 import { rejects } from 'assert';
-import 'dotenv/config'
 import mongoose from 'mongoose'
 import { resolve } from 'path';
 import Texture from './Models/Texture'
